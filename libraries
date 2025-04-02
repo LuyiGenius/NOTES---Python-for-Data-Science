@@ -1,0 +1,5 @@
+- NumPy (maths)
+- Pandas (data wrangling)
+- Matplotlib (Data visualisation)
+- Seaborn (built on top of matplotlib, has higher level interface capabilities)
+- OS (Operating System Interaction for working with files and folders)
